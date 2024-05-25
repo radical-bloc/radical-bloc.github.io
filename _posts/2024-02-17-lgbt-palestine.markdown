@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "LGBTQIA+ Support Palestine"
 date:   2024-02-17 23:23:23 +0300
 categories: lgbt palestine

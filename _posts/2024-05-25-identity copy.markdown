@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Ταυτοτικό κείμενο Κινηματικού Μπλοκ στο EuroPride / Who we are"
 date:   2024-05-25 23:23:25 +0300
 categories: lgbt

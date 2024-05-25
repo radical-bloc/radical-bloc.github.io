@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Open call video art"
 date:   2024-04-30 23:23:25 +0300
 categories: lgbt art
