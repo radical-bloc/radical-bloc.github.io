@@ -1,9 +1,9 @@
 ---
-layout: page
-title: About Radical Bloc
-permalink: /about/
+layout: post
+title:  "Ταυτοτικό κείμενο Κινηματικού Μπλοκ στο EuroPride / Who we are"
+date:   2024-05-25 23:23:25 +0300
+categories: lgbt
 ---
-
 (English below)
 
 Τι είναι το κινηματικό μπλοκ;

@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+
+![logo](/assets/logo.jpg){: style="width: 20vw" }
