@@ -3,9 +3,10 @@ layout: single
 title:  "Open call video art"
 date:   2024-04-30 23:23:25 +0300
 categories: lgbt art
+excerpt: "Radical Bloc at EuroPride Thessaloniki 2024, organizes a European artistic open call, whose main objective is the awareness of the discrimination against artists of the LGBTQ+ community."
 ---
-(Ελληνικά κάτω από το αγγλικό κείμενο)
-
+*(Ελληνικά κάτω από το αγγλικό κείμενο)*
+\
 On the occasion of the International Pride Day, the Radical Bloc at EuroPride Thessaloniki 2024, organizes a European artistic open call, whose main objective is the awareness of the discrimination against artists of the LGBTQ+ community. We invite creators from all the spectrums of social groups to share their experiences in a collective video-art project that will bring together all these stories in a manifesto film that will present the world from a more colorful perspective.
 Those who are interested in participating are invited to create an artistic video, representative of their creative identity, that will talk about experiences and traumas in their social life (racism, bullying, and other types of abusive behavior).
 Videos must be up to 5 minutes long, in mp4 format, and can either be anonymous or not. Disclaimers for trigger warnings are considered necessary.
@@ -13,9 +14,9 @@ The videos can address the following questions, which aim to provide a general f
 • What is it like to be an LGBTQ+ artist in your country of residence?
 • Is your country supportive of LGBTQ+ artists?
 • How does the state and society treat LGBTQ+ people (and by extension artists)?
-Submissions via WeTransfer and more information at <radopencall@gmail.com>
+Submissions via WeTransfer and more information at <mailto:radopencall@gmail.com>
 
-Radical Bloc in EuroPride - Thessaloniki 2024
+### Radical Bloc in EuroPride - Thessaloniki 2024
 
 Με αφορμή την Ευρωπαϊκή Ημέρα Υπερηφάνειας, το Kινηματικό μπλοκ στο EuroPride Thessaloniki 2024, οργανώνει ένα εικαστικό πανευρωπαϊκό κάλεσμα, το οποίο έχει ως κύριο στόχο την προβολή των διακρίσεων που αντιμετωπίζουν καλλιτεχνά της ΛΟΑΤΚΙ+ κοινότητας. Καλούμε δημιουργούς από όλα τα φάσματα των κοινωνικών ομάδων να μοιραστούν τις εμπειρίες τους σε ένα συλλογικό video-art project το οποίο θα συγκεντρώνει όλες αυτές τις ιστορίες σε μια ταινία μανιφέστο, που θα παρουσιάζει τον κόσμο από μια πιο πολύχρωμη ματιά.
 Τα ενδιαφερόμενα άτομα καλούνται να δημιουργήσουν ένα καλλιτεχνικό βίντεο, που θα είναι χαρακτηριστικό της δημιουργικής τους ταυτότητας και θα μιλούν για εμπειρίες, βιώματα και τραύματα στην κοινωνική τους ζωή (ρατσισμό, εκφοβισμό, και άλλα είδη κακόποιητικών συμπεριφορών).
@@ -27,6 +28,6 @@ Radical Bloc in EuroPride - Thessaloniki 2024
 - Πώς αντιμετωπίζει το κράτος και η κοινωνία ΛΟΑΤΚΙΑ+ άτομα (και κατ’ επέκταση καλλιτεχν@).
 Υποβολή ταινιών μέσω WeTransfer και περισσότερες πληροφορίες στο <radopencall@gmail.com>
 
-Κινηματικό Μπλοκ στο EuroPride Thessaloniki 2024
+### Κινηματικό Μπλοκ στο EuroPride Thessaloniki 2024
 
 ![poster](/assets/poster.jpg)

@@ -1,0 +1,70 @@
+---
+layout: single
+title:  "Έναρξη κινηματικής περιόδου 2023-2024"
+date:   2023-09-20 23:23:25 +0300
+categories: lgbt
+excerpt: "Καλωσορίζουμε την κινηματική περίοδο 2023-24 με αυτό το ποστ με φωτογραφίες από το φετινό 11ο Thessaloniki Pride (24 Ιουνίου)."
+gallery:
+  - url: /assets/enarksi_2023.jpg
+    image_path: /assets/enarksi_2023.jpg
+  - url: /assets/enarksi_2023_2.jpg
+    image_path: /assets/enarksi_2023_2.jpg
+  - url: /assets/enarksi_2023_3.jpg
+    image_path: /assets/enarksi_2023_3.jpg
+  - url: /assets/enarksi_2023_4.jpg
+    image_path: /assets/enarksi_2023_4.jpg
+  - url: /assets/enarksi_2023_5.jpg
+    image_path: /assets/enarksi_2023_5.jpg
+  - url: /assets/enarksi_2023_6.jpg
+    image_path: /assets/enarksi_2023_6.jpg
+  - url: /assets/enarksi_2023_7.jpg
+    image_path: /assets/enarksi_2023_7.jpg
+  - url: /assets/enarksi_2023_8.jpg
+    image_path: /assets/enarksi_2023_8.jpg
+  - url: /assets/enarksi_2023_9.jpg
+    image_path: /assets/enarksi_2023_9.jpg
+  - url: /assets/enarksi_2023_10.jpg
+    image_path: /assets/enarksi_2023_10.jpg
+  - url: /assets/enarksi_2023_11.jpg
+    image_path: /assets/enarksi_2023_11.jpg
+  - url: /assets/enarksi_2023_12.jpg
+    image_path: /assets/enarksi_2023_12.jpg
+  - url: /assets/enarksi_2023_13.jpg
+    image_path: /assets/enarksi_2023_13.jpg
+  - url: /assets/enarksi_2023_14.jpg
+    image_path: /assets/enarksi_2023_14.jpg
+
+---
+
+## 20.9.2023
+
+Καλωσορίζουμε την κινηματική περίοδο 2023-24 με αυτό το ποστ με φωτογραφίες από το φετινό 11ο Thessaloniki Pride (24 Ιουνίου). Ξεκινάει μια ξεχωριστή χρόνια για το λοατκια κίνημα της πόλης καθώς θα φιλοξενηθεί εδώ το EuroPride στα τέλη Ιούνη του 2024.
+Ως Κινηματικό Μπλοκ φιλοδοξούμε να οργανώνουμε δράσεις πιο συχνά μέσα στην κινηματική περίοδο, ώστε να συσπειρωθούμε όσο το δυνατόν περισσότερες αντισυστημικές δυνάμεις σε ένα μεγάλο Μπλοκ στο EuroPride.
+
+Σας καλούμε όλες, όλα και όλους στο μπλοκ μας στην αυριανή πορεία για τα 5 χρόνια από τη δολοφονία του Ζακ/της Zackie:
+[Facebook Post](https://facebook.com/events/s/%CF%84%CE%BF-%CE%BA%CE%B9%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%BF-%CE%BC%CF%80%CE%BB%CE%BF%CE%BA-%CF%83%CF%84%CE%B7%CE%BD-%CF%80%CE%BF%CF%81%CE%B5%CE%B9/1413053302961623/)
+
+### Κινηματικό Μπλοκ στο Thessaloniki Pride
+
+{% include gallery caption="Φωτογραφίες από το φετινό 11ο Thessaloniki Pride." %}
+
+## Λινκς για τα βίντεο
+
+1) Με τη Γεωργία είμαστε μαζί μέχρι τη δικαίωσή της
+Κινηματικό Μπλοκ στο 11ο Thessaloniki Pride
+Σάββατο 24 Ιουνίου
+<https://www.facebook.com/KinimatikoBlokThessalonikiPride/videos/305619505552163/?locale=el_GR>
+
+2) Να νομοθετηθεί άμεσα ο λοατκι γάμος με δικαίωμα παιδοθεσίας και γενικότερα γονεϊκότητας!
+(βίντεο από το μπλοκ μας στην πορεία του 11ου Thessaloniki Pride - 24 Ιουνίου)
+<https://www.facebook.com/KinimatikoBlokThessalonikiPride/videos/1470378833758247/?locale=el_GR>
+
+3) Ποστάρουμε σήμερα μερικά βίντεο από τη συμμετοχή του μπλοκ μας στην πορεία του φετινού 11ου Thessaloniki Pride.
+Παλεύουμε για Pride ανατρεπτικό!
+<https://www.facebook.com/KinimatikoBlokThessalonikiPride/videos/309206245153129/?locale=el_GR>
+
+4) Διεκδικούμε την ελεύθερη έκφρασή μας στους δρόμους της πόλης.
+Πίσω από το άρμα μας στο Κινηματικό Μπλοκ στο 11ο Thessaloniki Pride.
+<https://www.facebook.com/KinimatikoBlokThessalonikiPride/videos/277586671421619/?locale=el_GR>
+
+5) Η πορεία του 11ου Thessaloniki Pride τελειώνει σε λίγο. Ανανεώνουμε το ραντεβού μας για το Κινηματικό Μπλοκ στο Euro Pride της Θεσσαλονίκης, σε έναν χρόνο!) <https://www.facebook.com/KinimatikoBlokThessalonikiPride/videos/658575002803085/?locale=el_GR>

@@ -1,0 +1,47 @@
+---
+layout: single
+title:  "Για την Άννα…"
+categories: lgbt trans
+excerpt: "Βίντεο και φωτογραφίες από τη πορεία στις 12 Ιουλίου για τη δολοφονία Άννας."
+gallery:
+  - url: /assets/anna1.jpeg
+    image_path: /assets/anna1.jpeg
+  - url: /assets/anna2.jpeg
+    image_path: /assets/anna2.jpeg
+  - url: /assets/anna3.jpeg
+    image_path: /assets/anna3.jpeg
+  - url: /assets/anna4.jpeg
+    image_path: /assets/anna4.jpeg
+  - url: /assets/anna5.jpeg
+    image_path: /assets/anna5.jpeg
+  - url: /assets/anna6.jpeg
+    image_path: /assets/anna6.jpeg
+  - url: /assets/anna7.jpeg
+    image_path: /assets/anna7.jpeg
+  - url: /assets/anna8.jpeg
+    image_path: /assets/anna8.jpeg
+  - url: /assets/anna9.jpeg
+    image_path: /assets/anna9.jpeg
+  - url: /assets/anna10.jpeg
+    image_path: /assets/anna10.jpeg
+  - url: /assets/anna11.jpeg
+    image_path: /assets/anna11.jpeg
+  - url: /assets/anna12.jpeg
+    image_path: /assets/anna12.jpeg
+  - url: /assets/anna13.jpeg
+    image_path: /assets/anna13.jpeg
+  - url: /assets/anna14.jpeg
+    image_path: /assets/anna14.jpeg
+---
+
+## 19.10.2023
+
+Βίντεο και φωτογραφίες από τη μεγάλη πορεία που έγινε στη Θεσσαλονίκη στις 12 Ιουλίου για τη δολοφονία της τρανς περφόρμερ Άννας στην Αθήνα. Ίσως για πρώτη φορά συνυπήρξαμε στην ίδια πορεία μπλοκ από όλους τους λοατκια ιδεολογικούς χώρους της πόλης.
+<https://www.facebook.com/story.php?story_fbid=966134234720329&id=100039712844833>
+
+## Links με βιντεάκια
+
+<https://www.facebook.com/100039712844833/videos/pcb.966134234720329/809207557479342?locale=el_GR>
+
+<https://www.facebook.com/100039712844833/videos/pcb.966134234720329/291937693292333?locale=el_GR>
+{% include gallery caption="Φωτογραφίες από την πορεία."%}

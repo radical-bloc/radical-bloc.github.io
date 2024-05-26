@@ -1,0 +1,24 @@
+---
+layout: single
+title:  "Για τoν Ζακ..."
+categories: lgbt trans
+excerpt: "Φωτογραφίες από τη πορεία για τα 5 χρόνια από τη δολοφονία του Ζακ/της Zackie."
+gallery:
+  - url: /assets/zac1.jpeg
+    image_path: /assets/zac1.jpeg
+  - url: /assets/zac2.jpeg
+    image_path: /assets/zac2.jpeg
+  - url: /assets/zac3.jpeg
+    image_path: /assets/zac3.jpeg
+  - url: /assets/zac4.jpeg
+    image_path: /assets/zac4.jpeg
+  - url: /assets/zac5.jpeg
+    image_path: /assets/zac5.jpeg
+---
+
+## Για τον Ζακ
+
+Φωτογραφίες από τη συμμετοχή μας στην πορεία για τα 5 χρόνια από τη δολοφονία του Ζακ/της Zackie την περασμένη Πέμπτη.
+Οργή και θλίψη ο Ζακ μάς έχει λείψει.
+
+{% include gallery caption="Φωτογραφίες από την πορεία."%}
