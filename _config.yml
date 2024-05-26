@@ -12,11 +12,90 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
+
+# Options
+timezone: Europe/Athens
+include: ["_pages"]
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Theme settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "mint"
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+locale: "el-GR"
+title: Radical Bloc in Europride
+subtitle: Official page of Radical Bloc in Europride
+name: Radical Bloc in Europride
+description: Official page of Radical Bloc in Europride
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://marios1861.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+teaser: "/assets/logo.jpg"
+logo: "/assets/logo.jpg"
+words_per_minute         : 50
+breadcrumbs: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+author:
+  name: Radical Bloc in Europride
+  avatar: "/assets/logo.jpg"
+  bio: "Official page of Radical Bloc in Europride"
+  location: "Thessaloniki, Greece"
+  email: radopencall@gmail.com
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:radopencall@gmail.com"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/KinimatikoBlokThessalonikiPride"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/radicalbloc.in.europride2024"
+
+footer:
+  links:
+    - label: "About"
+      icon: "fas fa-fw fa-info-circle"
+      url: "/about/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:radopencall@gmail.com"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/KinimatikoBlokThessalonikiPride"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/radicalbloc.in.europride2024"
+
+permalink: /:categories/:title/
+
+paginate: 5
+paginate_path: /page:num/
+search: true
+date_format: "%d-%m-%Y"
+# Front Matter Defaults
 defaults:
   # _posts
   - scope:
@@ -24,6 +103,8 @@ defaults:
       type: posts
     values:
       layout: single
+      author_profile: true
+      show_date: true
       read_time: true
       comments: false
       share: true
@@ -35,25 +116,6 @@ defaults:
     values:
       layout: single
       author_profile: false
-
-include: ["_pages"]
-
-title: Radical Bloc in Europride
-email: radopencall@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Official page of Radical Bloc in Europride
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: radicalbloc.in.europride2024
-facebook_username: KinimatikoBlokThessalonikiPride
-#github_username:  jekyll
-
-# Build settings
-theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
-minimal_mistakes_skin: "mint"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
