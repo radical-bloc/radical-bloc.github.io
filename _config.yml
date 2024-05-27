@@ -45,7 +45,7 @@ subtitle: Official page of Radical Bloc in Europride
 name: Radical Bloc in Europride
 description: Official page of Radical Bloc in Europride
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://marios1861.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://radical-bloc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 teaser: "/assets/logo.jpg"
 logo: "/assets/logo.jpg"
 words_per_minute         : 50
